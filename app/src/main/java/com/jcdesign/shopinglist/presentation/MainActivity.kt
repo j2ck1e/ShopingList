@@ -1,7 +1,8 @@
-package com.jcdesign.shopinglist
+package com.jcdesign.shopinglist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jcdesign.shopinglist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
