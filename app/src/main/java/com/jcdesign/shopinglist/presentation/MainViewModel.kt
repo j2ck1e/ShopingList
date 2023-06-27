@@ -1,6 +1,5 @@
 package com.jcdesign.shopinglist.presentation
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.jcdesign.shopinglist.data.ShopListRepositoryImpl
 import com.jcdesign.shopinglist.domain.DeleteShopItemUseCase
